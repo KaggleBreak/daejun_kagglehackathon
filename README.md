@@ -4,7 +4,7 @@
 
 * https://www.facebook.com/groups/kagglebreak/
 * 일정표 : https://docs.google.com/spreadsheets/d/11tOkSUCkdqLIBAxv7xDsB0n9rGnA50EHu7mwZCQzxFg/edit#gid=0
-* 장소 : 대전광역시 미정
+* 장소 : 더포럼 (대전광역시 유성구 대학로 87-1) 
 * 격주 일요일
 
 
@@ -13,6 +13,6 @@
 |요일   |주제   |발표자   |발표자료   | 
 |---|---|---|---|
 |2017.09.24(일)|스터디 소개   |이유한|
-||조 구성   |이유한|
+||대회 선정 및 구성   |이유한|
 
 
